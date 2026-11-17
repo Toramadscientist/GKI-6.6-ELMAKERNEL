@@ -6,11 +6,14 @@ Generic kernels built on [Google's GKI sources](https://android.googlesource.com
 
 
 ## FEATURE
-- **Built-in Kernelsu-next
-- **Integrated Susfs
-- **Performance Patch
+- **Built-in Kernelsu-next**
+- **Integrated Susfs**
+- **Performance Patch**
 
 ## INSTALLATION
-
+- Go to Link
 
 ## DOCUMENTATION
+- See full documentation here LINK
+
+## Donations
