@@ -11,9 +11,13 @@ Generic kernels built on [Google's GKI sources](https://android.googlesource.com
 - **Performance Patch**
 
 ## INSTALLATION
-- Go to Link
+- Go to **LINK**
 
 ## DOCUMENTATION
-- See full documentation here LINK
+- See full documentation here **LINK**
+
+## THANK YOU TO
+-
 
 ## Donations
+-
