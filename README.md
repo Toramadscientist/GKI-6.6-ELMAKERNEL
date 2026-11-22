@@ -17,7 +17,5 @@ Generic kernels built on [Google's GKI sources](https://android.googlesource.com
 - See full documentation here **LINK**
 
 ## THANK YOU TO
--
-
-## Donations
--
+- Toramadscientist as maintainer
+- 
